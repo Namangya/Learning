@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <!-- Add your Firefly changesets here -->
+    <!-- Example:
+    <changeSet id="1" author="Umang Shukla" labels="Learning">
+        <sqlFile path="sql/your_script.sql" splitStatements="false"/>
+    </changeSet>
+    -->
+
+</databaseChangeLog>
