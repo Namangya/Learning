@@ -1,0 +1,5 @@
+-- PLSQL — 02 DDL
+-- CREATE TABLE with constraints
+-- ALTER TABLE (add/drop column, add constraint)
+-- DROP TABLE (CASCADE where supported)
+-- Indexes: CREATE INDEX, UNIQUE INDEX

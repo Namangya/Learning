@@ -1,0 +1,2 @@
+-- Monitoring Exercise
+-- TODO: Query pg_stat_activity and identify long-running queries

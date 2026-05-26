@@ -1,0 +1,4 @@
+-- pg_stat_activity — current connections and queries
+-- pg_stat_user_tables — table access statistics
+-- pg_stat_user_indexes — index usage
+-- log_min_duration_statement for slow query logging

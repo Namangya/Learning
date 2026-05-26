@@ -1,0 +1,2 @@
+-- User Security Exercise
+-- TODO: Create a read-only user with SELECT on a test table

@@ -1,0 +1,2 @@
+-- SQLServer — 02_DDL Exercise
+-- TODO: Complete the exercises described in ddl_notes.sql

@@ -1,0 +1,2 @@
+-- SQLServer — 01_Schema_Design Exercise
+-- TODO: Complete the exercises described in schema_design_notes.sql

@@ -1,0 +1,2 @@
+-- MySQL — 05_Functions_Triggers Exercise
+-- TODO: Complete the exercises described in functions_triggers_notes.sql

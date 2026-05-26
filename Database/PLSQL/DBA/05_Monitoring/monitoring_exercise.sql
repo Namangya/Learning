@@ -1,0 +1,2 @@
+-- Monitoring Exercise
+-- TODO: Query V$SESSION for active user sessions

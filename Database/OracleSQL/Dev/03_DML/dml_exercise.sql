@@ -1,0 +1,2 @@
+-- OracleSQL — 03_DML Exercise
+-- TODO: Complete the exercises described in dml_notes.sql

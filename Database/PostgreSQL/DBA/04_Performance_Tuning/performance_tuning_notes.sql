@@ -1,0 +1,4 @@
+-- shared_buffers, work_mem, effective_cache_size
+-- EXPLAIN ANALYZE for slow queries
+-- CREATE INDEX on frequently filtered columns
+-- VACUUM ANALYZE to update statistics
