@@ -1,0 +1,2 @@
+-- Performance Tuning Exercise
+-- TODO: Run EXPLAIN ANALYZE on a slow query and add an index

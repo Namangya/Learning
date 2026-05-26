@@ -1,0 +1,2 @@
+-- MySQL — 04_Stored_Procedures Exercise
+-- TODO: Complete the exercises described in stored_procedures_notes.sql

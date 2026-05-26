@@ -1,0 +1,4 @@
+-- AWR/ASH reports for performance analysis
+-- V$SQL for top SQL statements
+-- Index rebuild: ALTER INDEX idx REBUILD;
+-- Statistics: DBMS_STATS.GATHER_SCHEMA_STATS

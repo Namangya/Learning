@@ -1,0 +1,5 @@
+-- PostgreSQL — 03 DML
+-- SELECT with JOINs (INNER, LEFT, RIGHT, FULL)
+-- INSERT, UPDATE, DELETE
+-- MERGE / UPSERT (dialect-specific syntax)
+-- Transactions: BEGIN, COMMIT, ROLLBACK

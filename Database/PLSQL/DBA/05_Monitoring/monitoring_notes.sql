@@ -1,0 +1,5 @@
+-- V$SESSION — active sessions
+-- V$SQL — SQL area statistics
+-- V$SYSSTAT — system statistics
+-- V$WAITSTAT — wait event statistics
+-- See v_views_notes.sql and awr_ash_notes.sql for details

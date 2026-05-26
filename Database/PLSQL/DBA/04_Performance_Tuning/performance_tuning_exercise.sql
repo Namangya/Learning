@@ -1,0 +1,2 @@
+-- Performance Tuning Exercise
+-- TODO: Query V$SQL for top 5 elapsed-time statements

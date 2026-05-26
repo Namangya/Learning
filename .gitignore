@@ -1,0 +1,41 @@
+# Python virtual environments (never commit — recreate locally)
+.venv/
+venv/
+env/
+.env/
+
+# pytest
+.pytest_cache/
+
+# Hypothesis (property tests)
+.hypothesis/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node / React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local env secrets
+.env.local
+*.pem

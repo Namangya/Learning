@@ -1,0 +1,2 @@
+-- User Security Exercise
+-- TODO: Create a read-only role and assign it to a test user

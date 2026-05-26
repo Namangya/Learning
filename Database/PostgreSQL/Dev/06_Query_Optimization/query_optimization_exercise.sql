@@ -1,0 +1,2 @@
+-- PostgreSQL — 06_Query_Optimization Exercise
+-- TODO: Complete the exercises described in query_optimization_notes.sql
