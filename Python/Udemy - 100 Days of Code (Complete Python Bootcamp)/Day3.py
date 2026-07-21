@@ -7,11 +7,31 @@
 
 # In Python Spacing and Identation is Really Important
 
-print("Welcome to the If Else Game")
-height=int(input("What is your height in cm: "))
+print("Welcome to the If Else Nested Even Odd Divisibility Game")
 
-if height > 168:
-    print("Your Height good for Selection")
+number = int(input("Write the number: "))
+
+if number % 2 == 0:
+    if number % 5 == 0:
+        print(f"Number {number} is Even and Divisible by 5")
+    else:
+        print(f"Number {number} is Even and Not Divisible by 5")
 else:
-    less_height = 168 - height
-    print(f"Sorry, you height is {less_height} cm less from eligibity")
+    if number % 5 == 0:
+        print(f"Number {number} is Odd and Divisible by 5")
+    else:
+        print(f"Number {number} is Odd and Not Divisible by 5")
+
+
+print("Welcome to the If Elif Else Even Odd Divisibility Game")
+
+number = int(input("Write the number: "))
+
+if number % 2 == 0 and number % 5 == 0:
+    print(f"Number {number} is Even and Divisible by 5")
+elif number % 2 == 0:
+    print(f"Number {number} is Even and Not Divisible by 5")
+elif number % 5 == 0:
+    print(f"Number {number} is Odd and Divisible by 5")
+else:
+    print(f"Number {number} is Odd and Not Divisible by 5")
