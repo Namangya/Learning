@@ -1,4 +1,4 @@
-# 14th July 2026 - 15th July 2026 - Control Flow and Logical Operators
+# 14th July 2026 - 30th July 2026 - Control Flow and Logical Operators
 
 # If Condition
 #     Do This
@@ -91,3 +91,5 @@ if command == 'left':
 
 else:
   print("Fall into a hole. Game Over.")
+
+# End of Day 3
